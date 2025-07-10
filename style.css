@@ -6,7 +6,9 @@
   font-variation-settings:
     "wdth" 100;
 }
-
+.secondary-bg{
+    background-color: #FFF8F3;
+}
 .header{
     background-repeat: no-repeat;
     background-image: url(images/developer.png), url(images/header_bg.png);
@@ -74,4 +76,23 @@ nav ul li a{
 }
 .banner-profile-picture{
     width: 500px;
+}
+/* Main body */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin: 130px auto;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.about-description{
+    font-weight: 600;
 }

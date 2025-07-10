@@ -54,7 +54,7 @@ nav ul li a{
     background-color: blue;
     box-shadow: 5px 6px 7px rgb(124, 124, 189);
     transition: 1s;
-    cursor: progress;   
+    cursor: WAIT;   
 }
 .banner-title{
     font-size: 85px;

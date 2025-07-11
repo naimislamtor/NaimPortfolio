@@ -127,3 +127,35 @@ main section{
     /* justify-content: space-around; */
     margin-top: 50px;
 }
+.resume-container{
+    gap: 24px;
+    display: flex;
+}
+
+.resume-coloum-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: bold;
+}
+.exprience-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: blod;
+}
+.exprience-sub-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+.expricne-description{
+    color: #757575;
+}
+.resume hr{
+    margin: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.resume-download{
+    margin-top: 50px;
+}

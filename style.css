@@ -58,6 +58,23 @@ nav ul li a{
     transition: 1s;
     cursor: WAIT;   
 }
+
+.btn-secondary{
+    border: 1px solid #FD6E0A ;
+    border-radius: 5px;
+    padding: 18px 35px;
+    color:#FD6E0A;
+    box-shadow: 5px 6px 7px rgb(207, 155, 106);
+    
+
+}
+.btn-secondary:hover{
+    background-color: #FD6E0A;
+    color: white;
+    box-shadow: 5px 6px 7px rgb(211, 154, 144);
+    transition: 1s;
+    cursor: WAIT;   
+}
 .banner-title{
     font-size: 85px;
     font-weight: bold;
